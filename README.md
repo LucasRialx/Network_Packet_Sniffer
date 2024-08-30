@@ -27,7 +27,7 @@ pip install scapy
 Clone o repositório ou copie o código para um arquivo Python.
 Execute o script com privilégios administrativos para capturar pacotes de rede:
 ```
-sudo python nome_do_arquivo.py
+sudo python packet_sniffer.py
 ```
 O script começará a capturar pacotes e exibir as informações no terminal. Para interromper a captura, pressione Ctrl + C.
 Exemplo de Saída
